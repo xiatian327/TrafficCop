@@ -2,7 +2,6 @@
 [English](README_EN.md) | 中文
 
 
-[NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
 
 ## 注意事项
 
