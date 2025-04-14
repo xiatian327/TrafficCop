@@ -2,8 +2,6 @@
 [English](README_EN.md) | 中文
 
 
-[![image](https://github.com/user-attachments/assets/b1712474-1c08-49f9-a252-43caa33809d1)](https://yxvm.com/)
-
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
 
 ## 注意事项
